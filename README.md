@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aryan 👋
 
-<!--
-**aryan2202-cpu/aryan2202-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd-year CS student at IIIT Bhubaneswar (Class of 2029), building toward SWE internships.
 
-Here are some ideas to get you started:
+- 🔭 Currently grinding DSA on [LeetCode](https://leetcode.com/u/aryanftw22/)
+- 🌱 Learning C++, algorithms, and full-stack development
+- 💻 Working through DAA labs and coursework — check out my repos below
+- 📫 Reach me on [LinkedIn](your-linkedin-link-here)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+## GitHub Stats
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryan2202-cpu&show_icons=true&theme=dark)
