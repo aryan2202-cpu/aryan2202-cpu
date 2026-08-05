@@ -5,7 +5,7 @@
 - 🔭 Currently grinding DSA on [LeetCode](https://leetcode.com/u/aryanftw22/)
 - 🌱 Learning C++, algorithms, and full-stack development
 - 💻 Working through DAA labs and coursework — check out my repos below
-- 📫 Reach me on [LinkedIn](your-linkedin-link-here)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aryan-verma-58177a2ba/)
 
 ## Tech Stack
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
